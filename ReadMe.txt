@@ -3,7 +3,7 @@
 ========================================================================
 
 Program can batch shift timestamps in files.
-This program was written using Notepad++ and compiled using MinGW32.
+This program was written using Notepad++ and compiled using MinGW.
 Idea to write this program came when I needed to correct timestamps from a camera with wrong date.
 I calculated the difference between camera time and current time and used TimeStampCreator to set the correct the timestamp.
 The problem was that I had to manually calculate correct time(add the difference) for every timestamp.
